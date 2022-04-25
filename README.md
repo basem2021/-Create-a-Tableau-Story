@@ -1,5 +1,5 @@
-Data Story Telling using Tableau: Loan Data from Prosper
-Udacity Data Analyst Nanodegree December 2017 - May 2018. Project8 : Create a Tableau Story.
+Data Story Telling using Tableau
+Udacity Data Analyst Nanodegree Jan - April 2022. Project8 : Create a Tableau Story.
 
 Project Overview
 For this project, I will create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. My work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
